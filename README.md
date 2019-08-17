@@ -1,8 +1,8 @@
 # Garden Nerd (Flower recognition Challenge)
-This repository contains the training code to build a CNN classifier to classify between 102 classes of images
+This repository contains the training code to build a CNN classifier to classify between 102 classes of images, It also contains how to build a segmentation model.
 
 ### Dataset given:
-below is the image of the given dataset to build the classifier
+Below is the image of the given dataset to build the classifier
 ![actual dataset](https://github.com/shiwanshurockz/Garden-Nerd-flower-recognition-/blob/master/readme_img/orig0.jpg)
 ![actual dataset](https://github.com/shiwanshurockz/Garden-Nerd-flower-recognition-/blob/master/readme_img/orig1.jpg)
 ![actual dataset](https://github.com/shiwanshurockz/Garden-Nerd-flower-recognition-/blob/master/readme_img/orig2.jpg)
