@@ -16,7 +16,7 @@ Below is the Image of generated mask :
 
 ### Final generated data:
 The above generated mask is applied to the actual dataset, this will generate the segmentation of the image, and help our model to learn only necessary details of the flowers such as Shape, Design, Colour etc.
-Below is the finally segmented image:
+Below is the final segmentation :
 ![final segmentation](https://github.com/shiwanshurockz/Garden-Nerd-flower-recognition-/blob/master/readme_img/Final0.jpg)
 ![final segmentation](https://github.com/shiwanshurockz/Garden-Nerd-flower-recognition-/blob/master/readme_img/Final1.jpg)
 ![final segmentation](https://github.com/shiwanshurockz/Garden-Nerd-flower-recognition-/blob/master/readme_img/Final2.jpg)
